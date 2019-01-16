@@ -5,5 +5,5 @@
 def roll
   # code goes here
   nums = Array(1..6)
-  new.sample
+  nums.sample
 end
